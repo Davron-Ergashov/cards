@@ -1,0 +1,192 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+ul{
+    list-style: none;
+}
+
+a{
+    text-decoration: none;
+}
+
+.card{
+    width: 263px;
+    background-color:#3DC47E;
+    padding: 30px 25px 18px 25px;
+    margin: 50px;
+    border-radius: 10px;
+    text-align: center;
+    
+}
+.card-img{
+    margin-bottom: 19px;
+}
+.card-tittle{
+    color: white;
+    margin-bottom: 10px;
+}
+.card-text{
+    color: white;
+    margin-bottom: 27px;
+}
+
+
+
+
+
+
+.card-2{
+    width: 263px;
+    background-color: #262D33;
+    padding: 30px 25px 18px 25px;
+    margin: 50px;
+    border-radius: 10px;
+    text-align: center;
+    
+}
+.card-img-2{
+    margin-bottom: 19px;
+}
+.card-tittle-2{
+    color: white;
+    margin-bottom: 10px;
+}
+.card-text-2{
+    color: white;
+    margin-bottom: 27px;
+}
+
+
+
+
+
+
+.don-1{
+    width: 263px;
+    height: 370px;
+    background-color: #6C74E5;
+    padding: 46px 29px 26px 27px ;
+    margin: 50px;
+    border-radius: 10px;
+    
+}
+.don-img-1{
+    margin-bottom: 24px;
+    margin-top: 46px;
+}
+.don-tittle{
+    color: white;
+    margin-bottom: 24px;
+}
+.don-img-2{
+    margin-bottom: 26px;
+}
+
+
+
+
+.twit{
+    width: 263px;
+    background-color: #4CB9FC;
+    padding: 39px 45px 13px 25px;
+    margin: 50px;
+    border-radius: 10px;
+    text-align: left;
+}
+.twit-img{
+    margin-bottom: 52.6px;
+    text-align: center;
+    
+}
+.twit-text{
+    color: white;
+}
+.twit-tittle{
+    color: #C5E4FC;
+    margin-top: 45px;
+    margin-bottom: 28px;
+}
+.twit-line{
+    color: #A2D2FC;
+    width: 200px;
+    margin-left: 0;
+}
+.twit-about{
+    color: white;
+    margin-top: 12px;
+
+
+}
+.abrah{
+    width: 263px;
+    background-color: #4267B2;
+    margin: 50px;
+    border-radius: 10px;
+    padding: 19px 25px 96px 25px;
+    text-align: center;
+}
+.abrah-body{
+    color: white;
+}
+.abrah-line{
+    margin-top: 15px;
+}
+.abrah-img{
+    margin-top: 35px;
+    
+}
+.abrah-tittle{
+    margin-top: 35px;
+    color: white;
+    
+}
+
+
+
+.artur{
+    width: 263px;
+    background-color: #FF4F52;
+    border-radius: 10px;
+    margin: 50px;
+    padding: 45px 25px 135px 25px;
+    text-align: left;
+}
+.artur-body{
+    color: white;
+    margin-bottom: 30px;
+
+}
+.artur-name{
+    color: #FFC4C9;
+    margin-bottom: 30px;
+}
+
+
+
+
+.warren{
+    width: 263px;
+    background-color: #FFD980;
+    border-radius: 10px;
+    margin: 50px;
+    text-align: left;
+    padding: 25px;
+}
+.warren-name{
+    color: #F78316;
+    margin-bottom: 43px;
+}
+.warren-text{
+    margin-left: 45px;
+    margin-bottom: 25px;
+}
+.warren-img{
+    margin-left: 45px;
+    margin-bottom: 15px;
+}
+.warren-tittle{
+    color: #F78316;
+}
